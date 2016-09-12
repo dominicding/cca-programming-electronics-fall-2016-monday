@@ -1,8 +1,8 @@
-### Homework 1 (first part due Sunday, September 11, 2016)
+### Homework 1 (first part due Friday, September 16, 2016)
 
 This homework has two parts; first, complete the exercises we began in class using Rudy. Second, do a tutorial about drawing graphics, answer a few questions and install some software we'll use in our next class session.
 
-#### Rudy Puzzles (due Sunday)
+#### Rudy Puzzles (due Friday)
 
 - Solve the puzzles up to and including level 8 at [Rudy the Red Dot](http://rudy.zamfi.net). Half of are the puzzles we solved together using "pseudocode" in class, but now you will solve them with actual code, in JavaScript. The other half are similar puzzles, with slightly greater complexity, that we did *not* solve together in class.
   
@@ -36,7 +36,7 @@ This homework has two parts; first, complete the exercises we began in class usi
 
 - If you find yourself struggling with the basic concepts of the code, complete through puzzle 20 at [Hour of Code](http://learn.code.org/hoc/1) -- make sure you click the **Show Code** button after solving each puzzle and that you understand how that code works.
 
-#### Tutorial (due Wednesday)
+#### Tutorial (due Monday)
 
 - **Assignment: Read and do the exercises in Chapter 1 of Daniel Schiffman's Learning Processing.** Amazon allows you to see the first chapter in the **preview** of the [Kindle edition of the book](https://www.amazon.com/Learning-Processing-Beginners-Programming-Interaction-ebook/dp/B003FL6X4I/ref=mt_kindle). You may also be able to find a pdf of this chapter online as a "sample". We won't be spending much time using this book, so it may not be worth buying -- if you'd like to hold a paper copy, you can find one in the library.
 
@@ -50,6 +50,6 @@ This homework has two parts; first, complete the exercises we began in class usi
 
 - **Assignment: Get extra help by going to the Hybrid Lab during staffed hours (I believe 9am-10pm weekdays and 12pm-7pm on weekends) and asking the coaches for help!**
 
-- **Assignment: Bring your computer to class on Wednesday, September 14!**
+- **Assignment: Bring your computer to class on Monday, September 19!**
 
 Please email us at [J.D.](mailto:jzamfirescupereira@cca.edu) or [Michael](mailto:mshiloh@cca.edu) if you're stuck, aren't sure how to move forward, or just want to say hi! (And if you're stuck on Rudy, include the URL link to the puzzle you're stuck on!)
